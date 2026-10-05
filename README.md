@@ -11,7 +11,7 @@
 ### Connect with me:
 
 <p align="left">
-<a href="https://linkedin.com/in/vivek-dixit-4295a7423/" target="_blank">
+<a href="https://www.linkedin.com/in/vivek-dixit-88a652237/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://github.com/vivekDixit52" target="_blank">
