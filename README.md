@@ -69,9 +69,10 @@
 ### 🚀 Featured Projects
 
 * 💳 **PayNex** — Money Transfer Web Application using React.js
-* 🤖 **AI Chat Application** — React.js + Gemini API
 * 🛒 **E-Commerce Website** — HTML, CSS & JavaScript
+* 📝 Personal Blog — React.js + Vite
 * 🍕 **Pizza Bill Generator** — Java & OOP
+* 
 
 ### 📊 GitHub Stats
 
