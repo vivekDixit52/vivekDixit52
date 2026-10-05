@@ -17,7 +17,7 @@
 <a href="https://github.com/vivekDixit52" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
 </a>
-<a href="https://vivekdixit-portfolio.netlify.app/" target="_blank">
+<a href="https://vivekdixit-portfolio.vercel.app/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Portfolio" width="40" height="40"/>
 </a>
 </p>
