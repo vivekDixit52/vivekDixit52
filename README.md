@@ -68,11 +68,12 @@
 
 ### 🚀 Featured Projects
 
+* 🌐 Personal Portfolio — Developer portfolio showcasing my skills, projects, and experience using React.js
 * 💳 **PayNex** — Money Transfer Web Application using React.js
 * 🛒 **E-Commerce Website** — HTML, CSS & JavaScript
 * 📝 Personal Blog — React.js + Vite
 * 🍕 **Pizza Bill Generator** — Java & OOP
-* 
+  
 
 ### 📊 GitHub Stats
 
